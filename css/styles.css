@@ -5,30 +5,15 @@
   * Outline Elements
 */
 
-* {
+/* * {
   outline: 1px dotted black;
-}
+} */
 
 /* Doodle Stage */
 #stage {
+  height: 502px;
+  width: 650px;
   background: #ccc;
-  height: 300px;
-  width: 600px;
-
-  position: relative;
   overflow: hidden;
-}
-
-#stage:hover h1 {
-  left: 0;
-  transition: left 1s;
-  /* transition: PORPERTY TIME; */
-  opacity: 1;
-}
-
-#stage h1 {
-  position: absolute;
-  bottom: 0;
-  left: -200px;
-  opacity: 0;
+  position: relative;
 }

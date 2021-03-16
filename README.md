@@ -1,8 +1,9 @@
-# My Topic Google Doodle
-My google doodle is plants thriving near a window. The plants are all on a shelf in a gloomy window, a barrel catus, a hoya, a snkae plant, a large rubber tree plant, and a few small plants to fill the space. I plan on animating the leaves, but I’m not sure if they will all move individually or a as one svg. 
+# Coffee Google Doodle
+50+ words about your Google Doodle. 
 
 ## Collage
-[Link to Figma Collage](https://www.figma.com/file/qddPjlNrwgJ7hDR3WXKpFG/Plant-Sketches?node-id=2%3A4)
+[Link to Figma Collage](https://www.figma.com/file/KIEiC0Tgx5IF1BhpTLZhn0/Google-Doodle?node-id=0%3A1)
 
 ## Resources
-* 
+* [Coffee icon from Icon Monster](https://iconmonstr.com/coffee-10-svg/)
+* [Oswald Google Font]()
